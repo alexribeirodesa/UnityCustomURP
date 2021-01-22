@@ -4,7 +4,11 @@ This is a base project to create custom URP post processing filters using Render
 ## ToDo
 - Code a shader and use it with a ScriptableRenderPass.
 - Create a ShaderGraph with multiple properties and a ScriptableRenderPass where the developer can set each propertie.
-2021/01/22 - DONE - Create a simple greyscale shader using ShaderGraph and a simple ScriptableRenderPass to apply this shader as a post processing filter. 
+- 2021/01/22 - DONE - Create a simple greyscale shader using ShaderGraph and a simple ScriptableRenderPass to apply this shader as a post processing filter. 
+
+## The Creator
+Hi, I'm Alexandre Ribeiro de Sá. <a href="https://www.instagram.com/alexribeirodesa" target="_blank">@alexribeirodesa</a>
+In past years I have developed several assets for Unity, GameMaker, Construct, original games for arcade machines and more :)
 
 ## Support the Project
 <a href="https://www.buymeacoffee.com/canalzito" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
