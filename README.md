@@ -1,8 +1,13 @@
 # UnityCustomURP
-A base to create custom Unity URP filters 
+This is a base project to create custom URP post processing filters using RenderPassFeature.
+
+## ToDo
+- Code a shader and use it with a ScriptableRenderPass.
+- Create a ShaderGraph with multiple properties and a ScriptableRenderPass where the developer can set each propertie.
+2021/01/22 - DONE - Create a simple greyscale shader using ShaderGraph and a simple ScriptableRenderPass to apply this shader as a post processing filter. 
 
 ## Support the Project
-<a href="https://www.buymeacoffee.com/yWQrz9kq2" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/canalzito" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Licensing
 Base Unity URP Filter are available under the <a href="https://www.zlib.net/zlib_license.html" target="_blank">zlib license</a>:
